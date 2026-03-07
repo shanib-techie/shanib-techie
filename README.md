@@ -39,21 +39,21 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=shanib-techie&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanib-techie&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanib-techie&theme=tokyo-night)
 
 ---
 
 ## 👀 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Visitor Count](https://komarev.com/ghpvc/?username=shanib-techie)
 
 ---
 
