@@ -23,7 +23,7 @@
 - 📊 Learning **Data Analytics**
 - 💻 Skills: **Python, SQL, Excel, Power BI**
 - 🔭 Currently working on **Data Analysis Projects**
-- 📫 Reach me at **shanibkhan@gmail.com**
+- 📫 Reach me at **shanibkhan622@gmail.com**
 
 ---
 
